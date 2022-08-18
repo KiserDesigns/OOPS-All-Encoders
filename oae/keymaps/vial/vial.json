@@ -1,0 +1,27 @@
+{
+  "name": "OOPS! All Encoders",
+  "vendorId": "4B44",
+  "productId": "6145",
+  "lighting": "none",
+  "matrix": {
+    "rows": 8,
+    "cols": 6
+  },
+  "layouts": {
+    "keymap": [
+      ["0,0\n\n\n\n\n\n\n\n\ne","6,0\n\n\n\n\n\n\n\n\ne","1,0\n\n\n\n\n\n\n\n\ne","7,0\n\n\n\n\n\n\n\n\ne","2,0\n\n\n\n\n\n\n\n\ne","8,0\n\n\n\n\n\n\n\n\ne","3,0\n\n\n\n\n\n\n\n\ne","9,0\n\n\n\n\n\n\n\n\ne","4,0\n\n\n\n\n\n\n\n\ne","10,0\n\n\n\n\n\n\n\n\ne","5,0\n\n\n\n\n\n\n\n\ne","11,0\n\n\n\n\n\n\n\n\ne"],
+["12,0\n\n\n\n\n\n\n\n\ne","18,0\n\n\n\n\n\n\n\n\ne","13,0\n\n\n\n\n\n\n\n\ne","19,0\n\n\n\n\n\n\n\n\ne","14,0\n\n\n\n\n\n\n\n\ne","20,0\n\n\n\n\n\n\n\n\ne","15,0\n\n\n\n\n\n\n\n\ne","21,0\n\n\n\n\n\n\n\n\ne","16,0\n\n\n\n\n\n\n\n\ne","22,0\n\n\n\n\n\n\n\n\ne","17,0\n\n\n\n\n\n\n\n\ne","23,0\n\n\n\n\n\n\n\n\ne"],
+["24,0\n\n\n\n\n\n\n\n\ne","30,0\n\n\n\n\n\n\n\n\ne","25,0\n\n\n\n\n\n\n\n\ne","31,0\n\n\n\n\n\n\n\n\ne","26,0\n\n\n\n\n\n\n\n\ne","32,0\n\n\n\n\n\n\n\n\ne","27,0\n\n\n\n\n\n\n\n\ne","33,0\n\n\n\n\n\n\n\n\ne","28,0\n\n\n\n\n\n\n\n\ne","34,0\n\n\n\n\n\n\n\n\ne","29,0\n\n\n\n\n\n\n\n\ne","35,0\n\n\n\n\n\n\n\n\ne"],
+["36,0\n\n\n\n\n\n\n\n\ne","42,0\n\n\n\n\n\n\n\n\ne","37,0\n\n\n\n\n\n\n\n\ne","43,0\n\n\n\n\n\n\n\n\ne","38,0\n\n\n\n\n\n\n\n\ne","44,0\n\n\n\n\n\n\n\n\ne","39,0\n\n\n\n\n\n\n\n\ne","45,0\n\n\n\n\n\n\n\n\ne","40,0\n\n\n\n\n\n\n\n\ne","46,0\n\n\n\n\n\n\n\n\ne","41,0\n\n\n\n\n\n\n\n\ne","47,0\n\n\n\n\n\n\n\n\ne"],
+["0,0","1,0","0,1","1,1","0,2","1,2","0,3","1,3","0,4","1,4","0,5","1,5"],
+["2,0","3,0","2,1","3,1","2,2","3,2","2,3","3,3","2,4","3,4","2,5","3,5"],
+["4,0","5,0","4,1","5,1","4,2","5,2","4,3","5,3","4,4","5,4","4,5","5,5"],
+["6,0","7,0","6,1","7,1","6,2","7,2","6,3","7,3","6,4","7,4","6,5","7,5"],
+["0,1\n\n\n\n\n\n\n\n\ne","6,1\n\n\n\n\n\n\n\n\ne","1,1\n\n\n\n\n\n\n\n\ne","7,1\n\n\n\n\n\n\n\n\ne","2,1\n\n\n\n\n\n\n\n\ne","8,1\n\n\n\n\n\n\n\n\ne","3,1\n\n\n\n\n\n\n\n\ne","9,1\n\n\n\n\n\n\n\n\ne","4,1\n\n\n\n\n\n\n\n\ne","10,1\n\n\n\n\n\n\n\n\ne","5,1\n\n\n\n\n\n\n\n\ne","11,1\n\n\n\n\n\n\n\n\ne"],
+["12,1\n\n\n\n\n\n\n\n\ne","18,1\n\n\n\n\n\n\n\n\ne","13,1\n\n\n\n\n\n\n\n\ne","19,1\n\n\n\n\n\n\n\n\ne","14,1\n\n\n\n\n\n\n\n\ne","20,1\n\n\n\n\n\n\n\n\ne","15,1\n\n\n\n\n\n\n\n\ne","21,1\n\n\n\n\n\n\n\n\ne","16,1\n\n\n\n\n\n\n\n\ne","22,1\n\n\n\n\n\n\n\n\ne","17,1\n\n\n\n\n\n\n\n\ne","23,1\n\n\n\n\n\n\n\n\ne"],
+["24,1\n\n\n\n\n\n\n\n\ne","30,1\n\n\n\n\n\n\n\n\ne","25,1\n\n\n\n\n\n\n\n\ne","31,1\n\n\n\n\n\n\n\n\ne","26,1\n\n\n\n\n\n\n\n\ne","32,1\n\n\n\n\n\n\n\n\ne","27,1\n\n\n\n\n\n\n\n\ne","33,1\n\n\n\n\n\n\n\n\ne","28,1\n\n\n\n\n\n\n\n\ne","34,1\n\n\n\n\n\n\n\n\ne","29,1\n\n\n\n\n\n\n\n\ne","35,1\n\n\n\n\n\n\n\n\ne"],
+["36,1\n\n\n\n\n\n\n\n\ne","42,1\n\n\n\n\n\n\n\n\ne","37,1\n\n\n\n\n\n\n\n\ne","43,1\n\n\n\n\n\n\n\n\ne","38,1\n\n\n\n\n\n\n\n\ne","44,1\n\n\n\n\n\n\n\n\ne","39,1\n\n\n\n\n\n\n\n\ne","45,1\n\n\n\n\n\n\n\n\ne","40,1\n\n\n\n\n\n\n\n\ne","46,1\n\n\n\n\n\n\n\n\ne","41,1\n\n\n\n\n\n\n\n\ne","47,1\n\n\n\n\n\n\n\n\ne"]
+
+    ]
+  }
+}
